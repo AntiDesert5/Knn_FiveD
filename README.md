@@ -1,4 +1,4 @@
-# Knn_FiveD
+# Kmeans_FiveD
 ## Kmeans con 5 distancias.
 _Distancia haversine, Distance hamming, distancia manhattan, euclideana._
 
