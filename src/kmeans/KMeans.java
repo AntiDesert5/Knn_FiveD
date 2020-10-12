@@ -26,11 +26,6 @@ public class KMeans {
     public KMeans() {
     }
 
-    /*public KMeans(int numPuntos, int numclusters) {
-        this.numPuntos = numPuntos;
-        this.numclusters = numclusters;
-    }*/
-
     public int getNumPuntos() {
         return numPuntos;
     }
