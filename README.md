@@ -6,5 +6,6 @@ _Llenar campos, seleccionar "Generar puntos", seleccionamos los atractores dando
 , podemos limpiar la pantalla y volver a intentar con diferentes distancias, ountos, etc._
 
 
-https://github.com/AntiDesert5/Knn_FiveD/blob/master/src/ejemplo.png
-Hecho en Intellij IDEA.
+_![alt text](https://github.com/AntiDesert5/Knn_FiveD/blob/master/src/ejemplo.png)_
+
+_Hecho en Intellij IDEA._
